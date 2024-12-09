@@ -17,4 +17,8 @@ The dataset includes trip details like dates, destinations, transportation types
 # Future Work
 In the future I aim to integrate APIs for real-time travel data, user-uploaded datasets, 3D and layered visualizations, and mobile optimization. Adding user accounts for personalized recommendations and connecting with platforms like Expedia will provide a seamless experience. These upgrades aim to make the app a comprehensive travel analytics tool.
 
+Link to the Streamlit App: https://rikithas-final-app-exploring-travel-patterns.streamlit.app/
+
+
+
 
