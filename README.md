@@ -1,5 +1,5 @@
 # Exploring-Travel-Patterns-Unveiling-Trends-Costs-and-Destinations
-5122 Final App
+
 Introduction
 Understanding travel patterns is critical for travelers, businesses, and policymakers to make informed decisions. This dashboard is designed to provide a comprehensive analysis of travel trends, including popular destinations, transportation preferences, and travel costs.
 
