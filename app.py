@@ -132,10 +132,6 @@ if st.session_state.current_page == "Overview":
         traveler nationality, and other factors. Insights are presented across multiple pages, 
         each focusing on different aspects of travel analytics.
     """)
-
-    # Add an image below the introductory text
-    st.image("overview_image.jpg", caption="Exploring Travel Patterns: Unveiling Trends, Costs, and Destinations", use_container_width=True)
-
     
 
 elif st.session_state.current_page == "Trends":
